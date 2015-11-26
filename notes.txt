@@ -1,0 +1,5 @@
+ls : list the contents of the current directory
+cd : change directory (i.e (cd ..) will move to parent directory (cd foldername))
+touch : create a file within directory (touch file.txt)
+vim : file editor (:wq)
+cat : display the contents of a file without opening a text editor (i.e. cat notes.txt)
